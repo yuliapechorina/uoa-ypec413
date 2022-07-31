@@ -14,3 +14,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
  </div>
+
+### :chart_with_upwards_trend: My Stats:
+[![Yulia's GitHub stats](https://github-readme-stats.vercel.app/api?username=uoa-ypec413&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uoa-ypec413&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
