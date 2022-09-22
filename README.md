@@ -3,7 +3,7 @@
 ### :woman_technologist:  About me:
 - :mortar_board: I'm a final-year Computer Systems Engineering student
 - 🔭 I’m currently working on a web-based IDE to assist students with problem solving
-- 😄 Pronouns: she/her
+- :sparkles: Pronouns: she/her
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yulia-pechorina/)
  
 ---
